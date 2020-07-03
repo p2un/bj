@@ -1,6 +1,16 @@
 {
   "portrait":[
     "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/framee1.png",
+ "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame2.png",
+ "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame3.png",
+ "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame4.png",
+ "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame5.png",
+  "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame6.png",
+ "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame7.png",
+ "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame8.png",
+ "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame9.png",
+ "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/frame10.png",
+
        
     ],
   "landscape":[
@@ -9,6 +19,24 @@
     "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf3.png",
     "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf4.png",
     "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf5.png",
+        "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf6.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf7.png",
+
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf8.png",
+
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf9.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf10.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf11.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf12.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf13.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf14.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf15.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf16.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf17.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf18.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf19.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf20.png",
+
     
     ]
 }
