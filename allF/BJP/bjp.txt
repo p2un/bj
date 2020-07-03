@@ -1,14 +1,14 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/p2un/bj/master/bjp/portrait/framee1.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/portrait/framee1.png",
        
     ],
   "landscape":[
-    "https://raw.githubusercontent.com/p2un/bj/master/bjp/landscape/lf1.png",
-    "https://raw.githubusercontent.com/p2un/bj/master/bjp/landscape/lf2.png",
-    "https://raw.githubusercontent.com/p2un/bj/master/bjp/landscape/lf3.png",
-    "https://raw.githubusercontent.com/p2un/bj/master/bjp/landscape/lf4.png",
-    "https://raw.githubusercontent.com/p2un/bj/master/bjp/landscape/lf5.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf1.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf2.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf3.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf4.png",
+    "https://raw.githubusercontent.com/p2un/bj/master/BJP/landscape/lf5.png",
     
     ]
 }
